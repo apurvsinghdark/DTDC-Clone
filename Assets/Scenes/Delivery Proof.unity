@@ -826,7 +826,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &931076333
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1116,7 +1116,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1089109484}
+      - m_Target: {fileID: 0}
         m_MethodName: playAudio
         m_Mode: 2
         m_Arguments:
@@ -1289,9 +1289,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1089109483}
   - component: {fileID: 1089109482}
-  - component: {fileID: 1089109484}
   - component: {fileID: 1089109485}
   - component: {fileID: 1089109486}
+  - component: {fileID: 1089109484}
   m_Layer: 0
   m_Name: Controller
   m_TagString: Untagged
@@ -1334,7 +1334,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1089109481}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7539db0ed7ca66c48a2ac2dbdc39ef61, type: 3}
+  m_Script: {fileID: 11500000, guid: ea1708638cf0bc74b9ae6ddf8270dd83, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   clip:
@@ -1345,6 +1345,7 @@ MonoBehaviour:
   m_animator: {fileID: 931076334}
   _delayTime:
   - 0
+  - 3
 --- !u!82 &1089109485
 AudioSource:
   m_ObjectHideFlags: 0

@@ -530,7 +530,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   clip:
-  - {fileID: 8300000, guid: 87af526b7461a424a92cd2ae26ec3b8b, type: 3}
+  - {fileID: 8300000, guid: 48bbc0b4b180a6445a49bb4db183c579, type: 3}
   train: 0
   glow:
   - {fileID: 1426363955}
