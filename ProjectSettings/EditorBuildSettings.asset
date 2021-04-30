@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Welcome screen.unity
+    guid: 012be35e37e03f840add08a4db3f3002
+  - enabled: 1
+    path: Assets/Scenes/Mode.unity
+    guid: 1fb9047e73931f941aa92cddb2f93efc
+  - enabled: 1
+    path: Assets/Scenes/Login Scd.unity
+    guid: d313847e3bcd01142a78786e8d003e9b
+  - enabled: 1
+    path: Assets/Scenes/Login Scd Without Number.unity
+    guid: d2200b13701b95f4ebc240b075f322d7
+  - enabled: 1
+    path: Assets/Scenes/Login Bulk.unity
+    guid: 53c1876e008916b4eac93d591d636d4a
+  - enabled: 1
+    path: Assets/Scenes/Login Undelivered.unity
+    guid: 337437b056cdddd4aabcdf6912f58b60
+  - enabled: 1
+    path: Assets/Scenes/Delivery selection.unity
+    guid: ada6de05c39bf894eb4e1a437b472c86
+  - enabled: 1
+    path: Assets/Scenes/Dashboard scd.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Dashboard scd without number.unity
+    guid: f12e82510546d814f99f7698559c0e38
+  - enabled: 1
+    path: Assets/Scenes/Dashboard bulk delivery.unity
+    guid: 2358455f290c8a14c8a0833f1b615c49
+  - enabled: 1
+    path: Assets/Scenes/Dashboard Undelivered.unity
+    guid: 582ef8da73918204a9a7ce0859b8b166
+  - enabled: 1
+    path: Assets/Scenes/Task Details.unity
+    guid: 3e4b40c534f2ddb4f9de92260f22b0e1
+  - enabled: 1
+    path: Assets/Scenes/Task Details scd without number.unity
+    guid: 0696e337e04f7e24e8244cf2e6894108
+  - enabled: 1
+    path: Assets/Scenes/Task Details Undelivered.unity
+    guid: 461fdaf3968821848b8608e9c9492b1a
+  - enabled: 1
+    path: Assets/Scenes/Bulk Delivery.unity
+    guid: e9ef93af7b8b20d46ab4651560683962
+  - enabled: 1
+    path: Assets/Scenes/PendingTasks.unity
+    guid: a2a4e49fa34e18c48b6d6c762d4f808e
+  - enabled: 1
+    path: Assets/Scenes/PendingTasks SCD without number.unity
+    guid: a0b5241d437933041878d0a0f17f5042
+  - enabled: 1
+    path: Assets/Scenes/PendingTasks bulk delivery.unity
+    guid: b4dbb5edab749f847bb24396e269db70
+  - enabled: 1
+    path: Assets/Scenes/PendingTasks Undelivered.unity
+    guid: 364bf60a6669d6c41bd1ae7b2be85177
+  - enabled: 1
+    path: Assets/Scenes/Delivery Smile Code.unity
+    guid: b059756e5c734c04ab818e68b765ec55
+  - enabled: 1
+    path: Assets/Scenes/Delivery Smile CodeWithout Customer Phone.unity
+    guid: ad70ae74f0da38a45a990cf17c07f2d8
+  - enabled: 1
+    path: Assets/Scenes/Delivery Smile Code bulk.unity
+    guid: ffa1785561ba12040bfeaed1369c98ee
+  - enabled: 1
+    path: Assets/Scenes/Task Delivered.unity
+    guid: 20c1f712286aa7242a0dac59bff97f54
+  - enabled: 1
+    path: Assets/Scenes/Task Delivered without phone.unity
+    guid: e682fe3c93aefed489c68ae7664e2e02
+  - enabled: 1
+    path: Assets/Scenes/Task Delivered bulk delivery.unity
+    guid: 920943f7d6e8fb7428bbea6d2ffe0838
+  - enabled: 1
+    path: Assets/Scenes/Task Undelivered.unity
+    guid: 81a0f5e5c3cd9be4391222feb42abd43
+  - enabled: 1
+    path: Assets/Scenes/Delivery Proof.unity
+    guid: f7ddfc6a0eef6824d89d89fd67c22e17
+  - enabled: 1
+    path: Assets/Scenes/Camera_Scene.unity
+    guid: c00cb88b9ce7411488c0113c928560b9
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Progress_Details.unity
+    guid: 4f7734ace1c9ee946b30eb16f358d56f
+  m_configObjects: {}
