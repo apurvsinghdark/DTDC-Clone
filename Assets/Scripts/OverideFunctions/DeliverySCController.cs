@@ -13,7 +13,11 @@ public class DeliverySCController : ControllerScript
         base.Start();
         
         if(!train)
+        {
             _resendButton.interactable = true;
+            _OTPPanel.SetActive(true);
+        }
+
     }
 
     public override IEnumerator _DelayStart(float _time , float _time2, float _time3)
