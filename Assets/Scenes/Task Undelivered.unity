@@ -7292,7 +7292,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 0
   m_Colors:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
@@ -7312,7 +7312,7 @@ MonoBehaviour:
     m_PressedTrigger: Pressed
     m_SelectedTrigger: Selected
     m_DisabledTrigger: Disabled
-  m_Interactable: 1
+  m_Interactable: 0
   m_TargetGraphic: {fileID: 1668964016}
   m_OnClick:
     m_PersistentCalls:
@@ -7329,15 +7329,15 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 677419805}
-        m_MethodName: endScene
-        m_Mode: 5
+        m_MethodName: endSceneDelivered
+        m_Mode: 2
         m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_ObjectArgument: {fileID: 1957994006}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.GameObject, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: Mode
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
 --- !u!95 &1668964019
 Animator:
@@ -7864,6 +7864,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1888100175}
   m_CullTransparentMesh: 0
+--- !u!1 &1957994006 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4734675886875457080, guid: d9d3a3d83b187fe41bdd5ed679b376aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 219593017}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2029054560
 GameObject:
   m_ObjectHideFlags: 0
